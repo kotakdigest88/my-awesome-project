@@ -6,3 +6,14 @@
     #createAcc {
         text-align: center;
     }
+    #host{
+        color: rgb(239, 205, 154);
+        font-size: medium;
+        
+    }
+    #githublogo{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
